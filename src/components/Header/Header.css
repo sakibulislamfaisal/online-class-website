@@ -1,0 +1,17 @@
+.header img {
+  height: 120px;
+}
+.header-nav {
+  background-color: darkslategray;
+  min-height: 28px;
+}
+.header-nav nav a {
+  margin-right: 10px;
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+  padding: 10px;
+}
+.header-nav nav a:hover {
+  color: yellow;
+}

@@ -1,0 +1,6 @@
+.class-container {
+  display: flex;
+}
+.class-container .cart-container {
+  text-align: center;
+}

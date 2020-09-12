@@ -1,0 +1,31 @@
+.subject {
+  display: flex;
+  width: 100%;
+  border-right: 1px solid gray;
+}
+.subject img {
+  height: 100px;
+  padding: 10px 70px;
+}
+.subject h4 {
+  color: darkblue;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+.subject small {
+  font-size: 15px;
+}
+.subject small strong {
+  color: green;
+}
+.subject-info {
+  border-bottom: 1px solid green;
+}
+.subject-info button {
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.icon {
+  margin-right: 5px;
+}
